@@ -1,6 +1,9 @@
-# makers-game
+# makers prosthetic hand
 
-![makers' prosthetic hand](img/makersintro.jpg)
+![makers' prosthetic hand](img/makershand_intro.jpg)
+
+Chaque année, en France, près de 80 enfants naissent avec une agénésie à la main (malformation au cours du développement embryonnaire). Or ces enfants grandissent et leurs appareils doivent être renouvelés tous les 12 à 18 mois. Grâce à l'association e-nable les fablabs se mobilisent pour offrir à ces enfants la main bionique de super-héro qu'ils ont rêvé et changer le regard sur le handicap - version du Makers' lab d'emlyon business school.
+
 
 
 ## Vidéo
