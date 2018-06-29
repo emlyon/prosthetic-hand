@@ -121,8 +121,8 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 *Pour les finitions, couper au ciseau les fils qui dépasse des nœuds.*
 
 ![Assembly 19](img/makershand_assembly19.jpg)
-![Assembly 20](img/makershand_assembly20.jpg)
 ![Assembly 21](img/makershand_assembly21.jpg)
+![Assembly 20](img/makershand_assembly20.jpg)
 
 
 

@@ -2,42 +2,49 @@
 
 ![makers' prosthetic hand](img/makershand_intro.jpg)
 
-Chaque année, en France, près de 80 enfants naissent avec une agénésie à la main (malformation au cours du développement embryonnaire). Or ces enfants grandissent et leurs appareils doivent être renouvelés tous les 12 à 18 mois. Grâce à l'association e-nable les fablabs se mobilisent pour offrir à ces enfants la main bionique de super-héro qu'ils ont rêvé et changer le regard sur le handicap - version du Makers' lab d'emlyon business school.
+Every year in France, 80 to 100 babies are born with a malformation. We call it agenesis.
+Prostheses are very costly: between 41.000€ and 82.000€ for an artificial hand ! And because children are growing fast, they would need to change it every 2 years. Therefore, a very few number a kids with agenesis have one.
+The ultimate paradox is that prostheses are not appropriate for hostile environments such as water or sand. Environments that kids love!
+
+The association e-nable, a network of passionate volunteers, introduces kids to makers. The goal being to teach kids how to make their own opensource “raptor” prosthetic hand for less than 50€.
+
+This bootcamp gave us the opportunity to make a test kit of the “raptor” prosthesis for a clinic while telling the story of an opensource object.
 
 
 
-## Vidéo
+## Video
 [![makers' prosthetic hand video](http://img.youtube.com/vi/f_SkcdLc1xM/0.jpg)](https://www.youtube.com/watch?v=f_SkcdLc1xM)
 
-## Matériel
+## Material
 
-- Pièces plastique de la main imprimée 3D à télécharger sur le site de [e-nable](https://e-nable.fr/)
-- Bobine élastique et nylon
-- Vis
+- Download the plastic hand pieces to 3D print on [e-nable website](https://e-nable.fr/)
+- Rubber strips
+- Nylon threads
+- Screws
 
-Vous aurez aussi besoin d'avoir accès à:
-- 1 tournevis à tête plate
-- 1 pince plate
+You will also need:
+- 1 flat-head screwdriver
+- 1 flat tweezers
 - 1 cutter
 
 
 
-## Step 1 - Impression 3D de la main
+## Step 1 - 3D print the hand
 
-Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloaded-minimal.zip).
+3D print the hand using [these files](files/hand-raptor-reloaded-minimal.zip).
 
 ![3D printing](img/makershand_3Dprinting.jpg)  
 
 
 
-## Step 2 - Assembler les phalanges des doigts
+## Step 2 - Phalanges & fingers assembly
 
-- Le montage comprend 5 phalanges 1, 5 phalanges 2 et 5 rivets.  
-- Penser à bien poncer les pièces de façon à avoir des parties lisses au niveau des points de contact/ articulations (correction des irrégularités de l'impression 3D).  
-- Pour faire un doigt, prendre une pièce de chaque type :
-  - **Phalange 1** = la phalange de l'ongle (pour les petits curieux : phalanges distales et intermédiaires)
-  - **Phalange 2** = la phalange reliée à la main (phalanges proximales)  
-- La phalange 2 doit avoir la partie lisse avec une fente vers le bas, c'est l'intérieur du doigt. La petite partie qui dépasse "la corne", sera au-dessus de l'articulation de la paume, il faut **emboîter** l'autre côté avec la phalange 1 (le coté sans "corne").
+- You will have to assemble 5 phalanges 1, 5 phalanges 2 and 5 rivets.  
+- Sand each part to smooth the contact points/joints (fix 3D printing irregularities).  
+- To make a finger, take one part of each type :
+  - **Phalange 1** = fingernail phalanx (distal phalanx)
+  - **Phalange 2** = phalanx connected to the hand (proximal phalanx)  
+- The smooth part with the slot of phalanx 2 must be orented towards the bottom. La petite partie qui dépasse "la corne", sera au-dessus de l'articulation de la paume, il faut **emboîter** l'autre côté avec la phalange 1 (le coté sans "corne").
 - Ajuster le **rivet**, en enfonçant d'abord le côté rond dans le trou rectangulaire. Ainsi, une fois poussé jusqu'au bout, les deux formes rectangulaires s'emboîtent et empêchent le rivet de glisser. On peut prendre appui sur la table.
 
 ![Assembly 1](img/makershand_assembly1.jpg)
@@ -47,7 +54,7 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 
 
 
-## Step 3 - Assembler le poignet et la paume
+## Step 3 - Wrist & palm assembly
 
 - Arracher le support du poignet et enlever les aspérités des articulations.
 - Poser le dos de la main et du poignet sur la table, paume orientée vers soi.
@@ -63,7 +70,7 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 
 
 
-## Step 4 - La boîte à mikado
+## Step 4 - Mikado box
 
 - Coulisser le boîtier de l'arrière vers l'avant du poignet, sur ses rails, jusqu'à la buté, les trous rond vers l'arrière.
 - Derrière, faire glisser dans les rails le "trident", pour bloquer la boîte à mikado.
@@ -78,7 +85,7 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 
 
 
-## Step 5 - Assembler les doigts à la main
+## Step 5 - Hand fingers assembly
 
 - Commencer par l'auriculaire - le rikiki.
 - Insérer la base de l'auriculaire dans l'extrémité de la paume, aligner les trous.
@@ -93,7 +100,7 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 
 
 
-## Step 6 - Tirer les élastiques (tendons)
+## Step 6 - Rubber strips pulling
 
 - Commencer par l'**auriculaire** - le rikiki. Introduire l'élastique dans le trou à la base de l'auriculaire. Le fil passe dans la phalange 2 et ressort à l'extrémité, à l'articulation. Il passe au-dessus de la phalange 1, puis en dessous.
 - Faire un nœud plat pour accrocher l'élastique : une demi-clef vers la droite puis une deuxième vers la gauche.
@@ -113,7 +120,7 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 
 
 
-## Step 7 - Positionnement des scratchs
+## Step 7 - Nylon threads knotting
 
 - Faire un nœud plat au bout de la phalange 1 intérieur, passer à l'intérieur de la phalange 2, toujours dans l'intérieur puis traverser la paume et suivre l'élastique.
 - Entrer dans le tunnel, toujours en suivant l'élastique, et réaliser un nœud plat sur le trou du mikado associé.
@@ -121,12 +128,11 @@ Imprimez la main à partir du fichier [disponible ici](files/hand-raptor-reloade
 *Pour les finitions, couper au ciseau les fils qui dépasse des nœuds.*
 
 ![Assembly 19](img/makershand_assembly19.jpg)
-![Assembly 20](img/makershand_assembly20.jpg)
 ![Assembly 21](img/makershand_assembly21.jpg)
+![Assembly 20](img/makershand_assembly20.jpg)
 
 
-
-## Step 8 - Tirer les fils de nylon
+## Step 8 - Velcro strap positioning
 
 Six scratchs sont à positionner.
 - **Formation des scratchs du bas**, au niveau du poignet :  
@@ -147,7 +153,7 @@ découper deux scratchs : un de 5cm et l'autre de 9cm.
 
 
 
-## Step 9 - Les finitions
+## Step 9 - Finishing touches
 
 - Faire des points de colle sur les nœuds en nylon afin qu'ils tiennent plus longtemps.
 - Découper les fils de nylon et d'élastique qui dépassent.
