@@ -42,8 +42,8 @@ You will also need:
 - You will have to assemble 5 phalanges 1, 5 phalanges 2 and 5 rivets.  
 - Sand each part to smooth the contact points/joints (fix 3D printing irregularities).  
 - To make a finger, take one part of each type :
-  - **Phalange 1** = fingernail phalanx (distal phalanx)
-  - **Phalange 2** = phalanx directly connected to the hand (proximal phalanx)  
+  - **Phalanx 1** = fingernail phalanx (distal phalanx)
+  - **Phalanx 2** = phalanx directly connected to the hand (proximal phalanx)  
 - The smooth part with the slot of phalanx 2 must be oriented towards the bottom. The horned element will be above the palm articulation. You need to **plug** the other side with phalanx 1 (side without the horn).
 - **Adjust the rivet** by pressing the round side into the rectangular hole first. Once pressed all the way through, the rectangular shapes are plugged together and the rivet can not slip out.
 
@@ -57,7 +57,8 @@ You will also need:
 ## Step 3 - Wrist & palm assembly
 
 - Take off the wrist support and clean the articulation asperities.
-- Put the back of the hand and the wrist on the table, palm towards the you. - **Adjust** the wrist in the palm in order to **align** the holes.
+- Put the back of the hand and the wrist on the table, palm towards the you.
+- **Adjust** the wrist in the palm in order to **align** the holes.
 - **Adjust the rivet** by pressing the round side into the rectangular hole first. Inside towards outside. Once pressed all the way through, the rectangular shapes are plugged together and the rivet can not slip out.
 - With the tweezers, pinch the rivet outside end to reduce its diameter. Now you can insert the plastic nut. Take off the tweezers to let the **nut smooth side touch the hand**.
 
