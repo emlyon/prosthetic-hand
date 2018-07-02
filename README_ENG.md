@@ -43,9 +43,9 @@ You will also need:
 - Sand each part to smooth the contact points/joints (fix 3D printing irregularities).  
 - To make a finger, take one part of each type :
   - **Phalange 1** = fingernail phalanx (distal phalanx)
-  - **Phalange 2** = phalanx connected to the hand (proximal phalanx)  
-- The smooth part with the slot of phalanx 2 must be orented towards the bottom. La petite partie qui dépasse "la corne", sera au-dessus de l'articulation de la paume, il faut **emboîter** l'autre côté avec la phalange 1 (le coté sans "corne").
-- Ajuster le **rivet**, en enfonçant d'abord le côté rond dans le trou rectangulaire. Ainsi, une fois poussé jusqu'au bout, les deux formes rectangulaires s'emboîtent et empêchent le rivet de glisser. On peut prendre appui sur la table.
+  - **Phalange 2** = phalanx directly connected to the hand (proximal phalanx)  
+- The smooth part with the slot of phalanx 2 must be oriented towards the bottom. The horned element will be above the palm articulation. You need to **plug** the other side with phalanx 1 (side without the horn).
+- **Adjust the rivet** by pressing the round side into the rectangular hole first. Once pressed all the way through, the rectangular shapes are plugged together and the rivet can not slip out.
 
 ![Assembly 1](img/makershand_assembly1.jpg)
 ![Assembly 2](img/makershand_assembly2.jpg)
@@ -56,11 +56,10 @@ You will also need:
 
 ## Step 3 - Wrist & palm assembly
 
-- Arracher le support du poignet et enlever les aspérités des articulations.
-- Poser le dos de la main et du poignet sur la table, paume orientée vers soi.
-- **Ajuster** le poignet dans la paume, de façon à **aligner** les trous.
-- Ajuster le **rivet**, en enfonçant d'abord le côté rond dans le trou rectangulaire. Intérieur vers extérieur. Ainsi, une fois poussé jusqu'au bout, les deux formes rectangulaires s'emboîtent et empêchent le rivet de glisser.
-- Prendre la pince, pincer l'extrémité extérieur du rivet, de façon à en réduire le diamètre. Et ainsi insérer l'écrou en plastique. Retirer la pince pour que la face lisse de l'**écrou** soit en contact avec la main.
+- Take off the wrist support and clean the articulation asperities.
+- Put the back of the hand and the wrist on the table, palm towards the you. - **Adjust** the wrist in the palm in order to **align** the holes.
+- **Adjust the rivet** by pressing the round side into the rectangular hole first. Inside towards outside. Once pressed all the way through, the rectangular shapes are plugged together and the rivet can not slip out.
+- With the tweezers, pinch the rivet outside end to reduce its diameter. Now you can insert the plastic nut. Take off the tweezers to let the **nut smooth side touch the hand**.
 
 ![Assembly 5](img/makershand_assembly5.jpg)
 ![Assembly 6](img/makershand_assembly6.jpg)
@@ -72,12 +71,12 @@ You will also need:
 
 ## Step 4 - Mikado box
 
-- Coulisser le boîtier de l'arrière vers l'avant du poignet, sur ses rails, jusqu'à la buté, les trous rond vers l'arrière.
-- Derrière, faire glisser dans les rails le "trident", pour bloquer la boîte à mikado.
-- Prenez les 5 mikados et glissez les dans les trous du boîtier. Les trous des bâtons sont vers l'extérieur **comme sur la photo**.
-- A l'aide d'un tourne vis à tête plate, visser chaque mikado en place en introduisant une vis du côté rond de la boîte à mikado.
-- Vos 5 mikados sont maintenant en place.
-- Pour les étapes qui suivent, nous allons relier uniquement 3 mikados sur 5 à des fils de nylon pour avoir un mouvement de doigts plus synchronisé.
+- Slide all the way the box from the back to the front of the wrist usign the rails: the round holes towards the back.
+- Slide the "trident" rails at the back to lock the box.
+- Take the 5 sticks and slide them into the box holes. The sitcks holes are oriented towards the outside **like the picture**.
+- Using the flat-head screwdriver, screw each stick from the round side of the mikado box.
+- Your 5 sticks are now in place.
+- For the next steps, we will link only 3 sticks to nylon threads. The goal is to get a more synchronised finger move.
 
 ![Assembly 8](img/makershand_assembly8.jpg)
 ![Assembly 9](img/makershand_assembly9.jpg)
@@ -87,12 +86,12 @@ You will also need:
 
 ## Step 5 - Hand fingers assembly
 
-- Commencer par l'auriculaire - le rikiki.
-- Insérer la base de l'auriculaire dans l'extrémité de la paume, aligner les trous.
-- Ajuster le rivet (le grand rivet), en enfonçant d'abord le côté rond dans le trou rectangulaire. S’arrêter à mi-chemin, juste avant l'annulaire. L'emboiter et pousser le rivet jusqu'au bout, les deux formes rectangulaires s'emboîtent et empêchent le rivet de glisser.
-- Répéter l'opération pour l'index puis le majeur.
-- Les deux grands rivets peuvent avoir un défaut d'impression : il vous faudra peut-être retailler la fente avec le cutter.
-- Finir par le pouce, avec le rivet plus petit.
+- Start with the little finger.
+- Plug the little finger into the dedicated palm spot. Align the holes.
+- Adjust the big rivet: plug the round side first in the rectangular hole. Stop mid-way, just before the ring finger. Once pressed all the way through, the rectangular shapes are plugged together and the rivet can not slip out.
+- Repeat the operation for the index and the middle fingers.
+- The 2 big rivets can have a printing default: you may need to recut the slot using the cutter.
+- Finish with the thumb usign the smallest rivet.
 
 ![Assembly 11](img/makershand_assembly11.jpg)
 ![Assembly 12](img/makershand_assembly12.jpg)
@@ -102,15 +101,19 @@ You will also need:
 
 ## Step 6 - Rubber strips pulling
 
-- Commencer par l'**auriculaire** - le rikiki. Introduire l'élastique dans le trou à la base de l'auriculaire. Le fil passe dans la phalange 2 et ressort à l'extrémité, à l'articulation. Il passe au-dessus de la phalange 1, puis en dessous.
-- Faire un nœud plat pour accrocher l'élastique : une demi-clef vers la droite puis une deuxième vers la gauche.
-- Tendre le fil afin qu'il y ait une bonne résistance au niveau des articulations.
-- Prendre l'autre bout de l'élastique (le dormant). Le faire glisser dans le rail. Le rail est le trou en bas de la paume qui relie deux doigts. Faire passer le fil sur le dos de la main et répéter l'opération précédente pour l'annuaire : un nœud plat au bout de chaque doigt.
-- Faire une pause qualité avant e continuer avec les autres doigts.
-- Pause contrôle qualité : replier manuellement les doigts dans la paume, puis relâcher. Les doigts doivent remonter automatiquement, sinon resserrer l'élastique. Si ça ne marche pas, vous devrez limer l'articulation pour laisser un peu d'espace et permettre aux deux parties de coulisser.
-- Toutefois veiller à garder une certaine souplesse
-- Répéter les mêmes étapes pour l'**index** et le **majeur**, avec un **deuxième élastique**.
-- Avec un troisième élastique, répéter l'opération pour le **pouce**.
+- Start with the **little finger**. Put the elastic into the finger bottom hole. The wire passes through the phalanx 2 et goes out on the other side: the articulation. It goes on top of the phalanx 1 and then underneath.
+- Make a reef knot to clip the elastic.
+- Tighten the wire to get a good joints resistance.
+- Take the other elastic end and slide it into the rail. The rail starts at the bottom of the palm (hole) and connects two fingers. Pull the thread on the back of the hand and repeat the same process for the **ring finger**.
+- Do not forget to make a reef knot at the end of each finger.  
+
+**Make sure the finger works well** before putting the elastic on the other ones:
+- Manually fold the fingers in the palm then release.
+- The finger should go back to its original position automatically.
+- If it doesn't work, first try to tighten the elastic. Then file the joint to give more space and allow the two different parts to slide.
+- Make sure to keep some flexibility.
+- Repeat the steps for the **index finger** and the **middle finger** with the **second elastic**.
+- With the thrid elastic, repeat the steps for the **thumb**.
 
 ![Assembly 14](img/makershand_assembly14.jpg)
 ![Assembly 15](img/makershand_assembly15.jpg)
@@ -122,10 +125,10 @@ You will also need:
 
 ## Step 7 - Nylon threads knotting
 
-- Faire un nœud plat au bout de la phalange 1 intérieur, passer à l'intérieur de la phalange 2, toujours dans l'intérieur puis traverser la paume et suivre l'élastique.
-- Entrer dans le tunnel, toujours en suivant l'élastique, et réaliser un nœud plat sur le trou du mikado associé.
-- Répéter l'opération pour les cinq doigts de la main.
-*Pour les finitions, couper au ciseau les fils qui dépasse des nœuds.*
+- Make a reef knot at the end of the inside phalanx 1, pass the elastic inside the phalanx 2. Then go through the palm and follow the elastic.
+- Enter the tunnel, always following the elastic and make a reef knot on the associated stick hole.
+- Repeat the same process for the other fingers.
+*For the finishing touches, cut the elastic exceeding.*
 
 ![Assembly 19](img/makershand_assembly19.jpg)
 ![Assembly 21](img/makershand_assembly21.jpg)
@@ -134,17 +137,16 @@ You will also need:
 
 ## Step 8 - Velcro strap positioning
 
-Six scratchs sont à positionner.
-- **Formation des scratchs du bas**, au niveau du poignet :  
-découper deux scratchs : un de 13cm et l'autre de 11cm.
-- Passer les au niveau des fentes du poignet. Le plus long viendra couvrir le plus court.  
+You will need six velcro straps.
+- **The bottom velcro straps** for the wrist :  
+cut the velcro straps into two pieces : one of 13cm and the other of 11cm.
+- Pass them through the the wrist slots: the longer one will cover the other.
 
-- **Formation des scratchs du haut**, au niveau de la paume :  
-découper deux scratchs : un de 5cm et l'autre de 9cm.
-- Ne pas placer les scratchs.
-- Percer les scratchs du haut afin de faciliter le placement ds vis. Placer les vis dans le scratch et visser.
-- Découper des petits morceaux de scratch afin de faire des caches pour les vis du haut.
-- Placer les scratchs du bas.
+- **The upper velcro straps** for the palm :  
+cut the velcro straps into two pieces : one of 9cm and the other of 5cm.
+- Pierce the velcro straps and screw them to the hand.
+- Cut little pieces of velcro strap and use them to hide the upper screws.
+- Place the bottom velcro strap.
 
 ![Assembly 22](img/makershand_assembly22.jpg)
 ![Assembly 23](img/makershand_assembly23.jpg)
@@ -155,10 +157,10 @@ découper deux scratchs : un de 5cm et l'autre de 9cm.
 
 ## Step 9 - Finishing touches
 
-- Faire des points de colle sur les nœuds en nylon afin qu'ils tiennent plus longtemps.
-- Découper les fils de nylon et d'élastique qui dépassent.
+- Put some hot glue on the nylon thread knots to protect them.
+- Clean the prosthetic hand cutting off the exceeding wires.
 
-Bravo, vous avez réussi votre montage haut la main !
+Well done ! The prosthetic hand is finished.
 
 ![Assembly 26](img/makershand_assembly26.jpg)
 
@@ -166,5 +168,5 @@ Bravo, vous avez réussi votre montage haut la main !
 
 ## Notes et références
 
-- Site officiel de l'association e-nable : https://e-nable.fr/
-- Site du makers' lab d'emlyon business school : http://makerslab.em-lyon.com/
+- E-nable official website : https://e-nable.fr/
+- Makers' lab official website : http://makerslab.em-lyon.com/
